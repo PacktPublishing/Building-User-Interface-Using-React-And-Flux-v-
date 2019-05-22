@@ -16,7 +16,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video is ideal for developers with a basic knowledge of Python who want to learn to build, test, and scale their Python-based applications. No prior experience of writing microservices in Python is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-React and Flux
+React and flux
 
 ## Related Products
 * [Troubleshooting Vue.js [Video]](https://www.packtpub.com/application-development/troubleshooting-vuejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781788993531)
